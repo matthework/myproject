@@ -25,7 +25,7 @@ SECRET_KEY = 'jri*)jegg=@h&soy7+@kiy)2lu9wcswd-vm#gs3$m22-#l#yfp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['myblogmatt.herokuapp.com']
 
 
 # Application definition
